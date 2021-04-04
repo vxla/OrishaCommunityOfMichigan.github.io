@@ -24,10 +24,9 @@ header:
       en      : &EN       About Us
       # @end locale config
     url: /about.html
-    
-  - title:      Orishas
-    children:
-      - title:  one
-        url:    /two
-      - title:  two
-        url:    /two
+
+  - titles:
+      # @start locale config
+      en      : &EN       Orishas
+      # @end locale config
+    url: /orishas.html
