@@ -11,7 +11,7 @@ $text-color-1:     rgba(#fff, .85);
 $main-color-2:     #9d4c48; //coral color for letters
 $text-color-2:     #9d4c48; //coral color for letters
 
-$main-color-3:     #A08767; //dk beige
+$main-color-3:     #fff; //black
 $text-color-3:     rgba(#fff, .85);
 
 $main-color-theme-light: rgba(#000, .9);
@@ -29,9 +29,9 @@ $text-color-theme-dark-d:  #fff;
 $text-color-theme-dark:    rgba(#fff, .95);
 $text-color-theme-dark-l:  rgba(#fff, .85);
 
-$text-color-d:     $text-color-theme-dark-d;
-$text-color:       $text-color-theme-dark;
-$text-color-l:     $text-color-theme-dark-l;
+$text-color-d:     $text-color-theme-light-d;
+$text-color:       $text-color-theme-light;
+$text-color-l:     $text-color-theme-light-l;
 
 $text-background-color: rgba(#000, .05);
 
