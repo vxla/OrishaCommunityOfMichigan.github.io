@@ -18,7 +18,7 @@ $main-color-theme-light: rgba(#000, .9);
 $main-color-theme-dark:  rgba(#fff, .9);
 
 // page background
-$background-color: #EDE4D5; //lt beige
+$background-color: #fff; //white
 
 // text colors
 $text-color-theme-light-d: rgba(#000, .95);
@@ -37,7 +37,7 @@ $text-background-color: rgba(#000, .05);
 
 // header and footer colors
 $header-text-color: $text-color-2;
-$header-background: $main-color-3;
+$header-background: #EDE4D5; //lt beige
 
 $footer-text-color: $text-color-2;
 $footer-background: $main-color-3;
