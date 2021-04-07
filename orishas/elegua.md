@@ -1,9 +1,6 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       Elegua
-  # @end locale config
+title: Elegua
 sidebar:
   nav: sidebar-orishas
 ---
