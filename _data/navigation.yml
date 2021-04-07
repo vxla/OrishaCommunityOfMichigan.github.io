@@ -14,12 +14,6 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Posts
-      # @end locale config
-    url: /posts.html
-
-  - titles:
-      # @start locale config
       en      : &EN       About Us
       # @end locale config
     url: /about.html
