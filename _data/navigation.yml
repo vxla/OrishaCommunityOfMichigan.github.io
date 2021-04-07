@@ -6,13 +6,6 @@ header:
       # @end locale config
     url: /lineage.html
 
-
-  - titles:
-      # @start locale config
-      en      : &EN       Links
-      # @end locale config
-    url: /links.html
-
   - titles:
       # @start locale config
       en      : &EN       FAQ
@@ -24,7 +17,6 @@ header:
       en      : &EN       Posts
       # @end locale config
     url: /posts.html
-   
 
   - titles:
       # @start locale config
@@ -37,3 +29,47 @@ header:
       en      : &EN       Orishas
       # @end locale config
     url: /orishas.html
+    
+    
+    
+sidebar-orishas:
+  - title:      Orishas
+    children:
+      - title: Elegua
+        url:    /orishas/elegua.html
+      - title:  Ogun
+        url:    /orishas/ogun.html
+      - title:  Obatala
+        url:    /orishas/obatala.html
+      - title:  Oya
+        url:    /orishas/oya.html
+      - title:  Oshun
+        url:    /orishas/oshun.html
+      - title:  Yemoja
+        url:    /orishas/yemoja.html
+      - title:  Shango
+        url:    /orishas/shango.html
+        
+
+sidebar-faq:
+  - title:      FAQs
+    children:
+      - title: Safety Tips
+        url:    /faqs/safety-tips.html
+      - title: Glossary
+        url:    /faqs/glossary.html
+      - title: Do\'s and Don\'ts
+        url:    /faqs/dos-and-donts.html
+      - title: Recommended Reading
+        url:    /faqs/recommended-reading.html
+      - title: Compare ATRs
+        url:    /faqs/compare-atrs.html
+
+
+sidebar-about:
+  - title:      About Us
+    children:
+      - title: Contact Us
+        url:    /about/contact-us.html
+      - title: Do you slack?
+        url:    /about/glossary.html
