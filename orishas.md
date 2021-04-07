@@ -1,9 +1,6 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       Orishas
-  # @end locale config
+title: Orishas
 sidebar:
   nav: sidebar-orishas
 ---
