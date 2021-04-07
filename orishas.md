@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Orishas
+aside:
+  toc: true
 sidebar:
   nav: sidebar-orishas
 ---
