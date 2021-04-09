@@ -13,7 +13,7 @@ articles:
 
 Learn more about the orishas, click the links in the sidebar.
 
-Did it update 3
+Did it update 4
 
 <div class="layout--articles">
   <section class="my-5">
