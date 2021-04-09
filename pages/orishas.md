@@ -21,9 +21,5 @@ Did it update 3
     {%- include article-list.html articles=site.orishas type='grid' -%}
   </section>
 
-  <section class="my-5">
-    <header><h2 id="articles-layout">Articles(Home) Layout</h2></header>
-    {%- include article-list.html articles=orishas type='grid' -%}
-  </section>
 
 </div>
