@@ -17,4 +17,4 @@ articles:
 
 Learn more about the orishas, click the links in the sidebar.
 
-Did it update 6
+Did it update 7
