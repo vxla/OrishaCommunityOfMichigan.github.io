@@ -8,7 +8,7 @@ aside:
 sidebar:
   nav: sidebar-orishas
 articles:
-  data_source: site.orishas
+  data_source: orishas
   show_excerpt: true
   show_readmore: true
   show_info: true
@@ -17,4 +17,4 @@ articles:
 
 Learn more about the orishas, click the links in the sidebar.
 
-Did it update 4
+Did it update 5
