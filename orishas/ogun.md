@@ -2,6 +2,7 @@
 layout: article
 title: Ogun
 permalink: /orishas/ogun.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

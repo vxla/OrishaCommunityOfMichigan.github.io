@@ -2,6 +2,7 @@
 layout: article
 title: Yemoja
 permalink: /orishas/yemoja.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

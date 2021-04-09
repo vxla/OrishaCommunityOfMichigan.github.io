@@ -2,6 +2,7 @@
 layout: article
 title: Elegua
 permalink: /orishas/elegua.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

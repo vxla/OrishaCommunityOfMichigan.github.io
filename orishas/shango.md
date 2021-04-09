@@ -2,6 +2,7 @@
 layout: article
 title: Shango
 permalink: /orishas/shango.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

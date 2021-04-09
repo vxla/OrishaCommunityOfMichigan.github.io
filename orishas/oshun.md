@@ -2,7 +2,7 @@
 layout: article
 title: Oshun
 permalink: /orishas/oshun.html
-key: page-single
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

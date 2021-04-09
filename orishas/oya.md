@@ -2,6 +2,7 @@
 layout: article
 title: Oya
 permalink: /orishas/oya.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---

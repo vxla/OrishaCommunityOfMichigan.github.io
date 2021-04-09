@@ -2,6 +2,7 @@
 layout: article
 title: Obatala
 permalink: /orishas/obatala.html
+key: orishas
 sidebar:
   nav: sidebar-orishas
 ---
