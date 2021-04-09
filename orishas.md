@@ -6,7 +6,7 @@ aside:
 sidebar:
   nav: sidebar-orishas
 articles:
-  data_source: site.sample_page
+  data_source: site.elegua
   show_excerpt: true
   show_readmore: true
   show_info: true
@@ -15,3 +15,5 @@ articles:
 
 
 Learn more about the orishas, click the links in the sidebar.
+
+Did it update
