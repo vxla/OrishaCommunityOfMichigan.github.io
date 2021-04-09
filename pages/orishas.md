@@ -8,7 +8,7 @@ aside:
 sidebar:
   nav: sidebar-orishas
 articles:
-  data_source: orishas
+  data_source: site.orishas
   show_excerpt: true
   show_readmore: true
   show_info: true
