@@ -20,6 +20,9 @@ Did it update 3
     <header><h2 id="page-layout">Page Layout</h2></header>
     {%- include article-list.html articles=site.orishas type='grid' -%}
   </section>
-
-
 </div>
+
+
+{% for orisha in site.orishas %}
+  <h2>{{ orisha.title }} </h2>
+{% endfor %}
