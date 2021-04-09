@@ -2,6 +2,7 @@
 layout: article
 title: Orishas
 permalink: /orishas.html
+key: orishas
 aside:
   toc: true
 sidebar:
