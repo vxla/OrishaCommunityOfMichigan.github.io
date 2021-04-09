@@ -220,6 +220,7 @@ defaults:
     values:
       nav_key: orishas
 
+
 ## => Plugins
 ##############################
 plugins:
