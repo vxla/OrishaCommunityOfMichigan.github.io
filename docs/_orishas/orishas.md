@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Orishas
-permalink: orishas.html
+permalink: /orishas.html
 aside:
   toc: true
 sidebar:
@@ -17,4 +17,4 @@ articles:
 
 Learn more about the orishas, click the links in the sidebar.
 
-Did it update 3
+Did it update 4
