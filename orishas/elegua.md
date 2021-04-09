@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Elegua
+permalink: /orishas/elegua.html
 sidebar:
   nav: sidebar-orishas
 ---
