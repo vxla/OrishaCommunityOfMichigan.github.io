@@ -38,7 +38,7 @@ author:
   name      : Orisha Community of Michigan
   url       : https://orishacommunityofmichigan.github.io/
   avatar    : # path or url of avatar image (square)
-  bio       : 
+  bio       :
   email     :
   facebook  : https://www.facebook.com/OrishaCommunityofMichigan/ # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -214,7 +214,11 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
-
+  - scope:
+      path: ""
+      type: orishas
+    values:
+      nav_key: orishas
 
 ## => Plugins
 ##############################
