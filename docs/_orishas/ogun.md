@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Ogun
+permalink: /orishas/ogun.html
 sidebar:
   nav: sidebar-orishas
 ---

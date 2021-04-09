@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Orishas
+permalink: orishas.html
 aside:
   toc: true
 sidebar:

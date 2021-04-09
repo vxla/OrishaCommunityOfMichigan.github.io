@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Shango
+permalink: /orishas/shango.html
 sidebar:
   nav: sidebar-orishas
 ---
@@ -11,7 +12,7 @@ Though he traded the Table of Ifá to Orunmila in exchange for the gift of dance
 
 Shangó does not have roads or “paths” like some of the other orishas, because he is singular in nature. He was one man that was elevated to being an orisha through the miracles he performed to save his people after death.  (It is considered offensive to discuss the nature of Shango’s death.)
 
- 
+
 Number is 6 or 12
 Colors: white and red
 Sacred food: amalá ilá
