@@ -220,6 +220,10 @@ collections:
 
 include:
  - _orishas
+ - _pages
+ - _faqs
+ - _posts
+
 
 ## => Plugins
 ##############################
