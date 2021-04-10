@@ -11,7 +11,6 @@ sidebar:
 These are common terms that you will hear often:
 
 | Ache/Ashe            | Energy that exists in the universe and everything in it. Difficult to explain in just a few short sentences because, by it’s nature, it exceeds human understanding. Ashe is grace, it’s wisdom, it’s knowledge. Ashe is life force, it’s vitality, it’s carried inside of us and it’s all around us. |
-| -------------------- | ------------------------------------------------------------ |
 | ATR                  | African Traditional Religion. Loosely, it encompasses all African beliefs and practices that are considered religious but neither Christian nor Islamic. |
 | Baba                 | title used for any male priest who has initiated another priest |
 | Derecho/Ashedi       | the payment/offering for a ceremony or service               |
