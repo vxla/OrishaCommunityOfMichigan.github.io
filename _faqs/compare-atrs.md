@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Compare ATRs
+permalink: /faqs/compare-atrs.html
 aside:
   toc: true
 sidebar:

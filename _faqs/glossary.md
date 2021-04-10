@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Glossary
+permalink: /faqs/glossary.html
 aside:
   toc: true
 sidebar:
