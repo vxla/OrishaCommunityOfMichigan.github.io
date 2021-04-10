@@ -5,7 +5,7 @@ permalink: /lineage.html
 key: lineage
 ---
 
-View images of our lineage tree here.
+Images of our lineage tree.
 
 ![1](1.png)
 
