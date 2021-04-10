@@ -1,6 +1,7 @@
 ---
 layout: article
 title: FAQs
+permalink: /faq.html
 aside:
   toc: true
 sidebar:
