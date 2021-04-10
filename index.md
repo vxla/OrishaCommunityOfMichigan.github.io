@@ -1,13 +1,11 @@
 ---
 layout: article
-title: Home
+title: About Us
 article_header:
   type: cover
   image:
     src: assets/cropped-large-with-speckles-NEW4-3.jpeg
 ---
-
-# About Us
 
 We are a racially and socially diverse house. We have people from all walks of life; some with children, without children, straight, bisexual, gay, of various gender identities, white, black, brown, disabled, skinny and fat and we tolerate no sexism, racism, homophobia or any other type of hatred based on ignorance.
 
