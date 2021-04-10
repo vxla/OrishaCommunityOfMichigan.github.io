@@ -1,27 +1,15 @@
 header:
 
-  - titles:
-      # @start locale config
-      en      : &EN       Lineage
-      # @end locale config
+  - title: Lineage
     url: /lineage.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       FAQ
-      # @end locale config
+  - title: FAQ
     url: /faq.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       About Us
-      # @end locale config
+  - title: About Us
     url: /about.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Orishas
-      # @end locale config
+  - title: Orishas
     url: /orishas.html
 
 
@@ -60,12 +48,3 @@ sidebar-faq:
         url:    /faqs/compare-atrs.html
       - title: Altars and Shrines?
         url:    /faqs/altars-and-shrines.html
-
-
-sidebar-about:
-  - title:      About Us
-    children:
-      - title: Contact Us
-        url:    /about/contact-us.html
-      - title: Do you slack?
-        url:    /about/slack.html
