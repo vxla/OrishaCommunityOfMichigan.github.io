@@ -1,4 +1,5 @@
 # Orisha Community of Michigan Website
+![banner](Sassets/cropped-large-with-speckles-NEW4-3.jpeg)
 
 ## How to add a page
 - Adding a page should be done within the appropriate folder.
