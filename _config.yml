@@ -218,6 +218,9 @@ defaults:
 collections:
   - orishas
 
+include:
+ - _orishas
+
 ## => Plugins
 ##############################
 plugins:
