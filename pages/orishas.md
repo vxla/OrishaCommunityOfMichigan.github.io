@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: articles
 title: Orishas
 permalink: /orishas.html
 aside:
@@ -13,7 +13,7 @@ articles:
 
 Learn more about the orishas, click the links in the sidebar.
 
-Did it update 4
+Did it update 5
 
 <div class="layout--articles">
   <section class="my-5">
