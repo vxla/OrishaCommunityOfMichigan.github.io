@@ -35,13 +35,13 @@ sidebar-faq:
     children:
       - title: Safety Tips
         url:    /faqs/safety-tips.html
-      - title: Glossary
-        url:    /faqs/glossary.html
       - title: "Do's and Don'ts"
         url:    /faqs/dos-and-donts.html
+      - title: Altars and Shrines?
+        url:    /faqs/altars-and-shrines.html
+      - title: Glossary
+        url:    /faqs/glossary.html
       - title: Recommended Reading
         url:    /faqs/recommended-reading.html
       - title: Compare ATRs
         url:    /faqs/compare-atrs.html
-      - title: Altars and Shrines?
-        url:    /faqs/altars-and-shrines.html
