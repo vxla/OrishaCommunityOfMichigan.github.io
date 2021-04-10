@@ -2,8 +2,7 @@
 layout: article
 title: FAQs
 permalink: /faq.html
-aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

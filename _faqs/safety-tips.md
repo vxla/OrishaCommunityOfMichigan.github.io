@@ -2,8 +2,7 @@
 layout: article
 title: Safety Tips
 permalink: /faqs/safety-tips.html
-aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

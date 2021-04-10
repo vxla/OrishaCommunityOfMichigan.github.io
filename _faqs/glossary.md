@@ -2,8 +2,7 @@
 layout: article
 title: Glossary
 permalink: /faqs/glossary.html
-aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

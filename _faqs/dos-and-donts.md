@@ -2,8 +2,7 @@
 layout: article
 title: Do's and Don'ts
 permalink: /faqs/dos-and-donts.html
-aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

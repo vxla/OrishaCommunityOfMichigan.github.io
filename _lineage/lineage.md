@@ -2,7 +2,7 @@
 layout: article
 title: Lineage
 permalink: /lineage.html
-key: page-thing
+key: lineage
 ---
 
 View images of our lineage tree here.

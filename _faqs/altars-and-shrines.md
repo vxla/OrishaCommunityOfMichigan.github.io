@@ -2,8 +2,7 @@
 layout: article
 title: Altars and Shrines
 permalink: /faqs/altars-and-shrines.html
-aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

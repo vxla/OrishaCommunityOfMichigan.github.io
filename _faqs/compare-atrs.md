@@ -3,7 +3,7 @@ layout: article
 title: Compare ATRs
 permalink: /faqs/compare-atrs.html
 aside:
-  toc: true
+key: faqs
 sidebar:
   nav: sidebar-faq
 ---

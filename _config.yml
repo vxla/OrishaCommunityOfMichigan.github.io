@@ -217,6 +217,8 @@ defaults:
 
 collections:
   - orishas
+  - faqs
+  - lineage
 
 include:
  - _orishas
