@@ -13,9 +13,8 @@ Yemoja is often depicted as a mermaid, and is associated with the moon, water, a
 
 There are many roads of Yemoja: Okute, Asesú, Achabá and Mayelewo are some of them, and each one has a color combination all having shades of blue as a common denominator.
 
-
-Number: 7
-Colors: Blue and white/clear
-Offerings: watermelon, molasses, gofio, pork rinds
-Sacred Place in Nature: the ocean, lagoons and lakes
-Temperament: Nurturing, loving, direct, frank
+- Number: 7
+- Colors: Blue and white/clear
+- Offerings: watermelon, molasses, gofio, pork rinds
+- Sacred Place in Nature: the ocean, lagoons and lakes
+- Temperament: Nurturing, loving, direct, frank

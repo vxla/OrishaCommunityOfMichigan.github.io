@@ -13,9 +13,9 @@ Obatalá is the source of all that is pure, wise peaceful and compassionate. Oba
 
 He is always dressed in white and all of his offerings are white to reflect his spiritual purity and the coolness of his energy. White is our most sacred color because it represents Obatala. When devotees attend ceremonies we wear white clothing to surround ourselves with Obatala’s protective energy.
 
-Number: 8
-Color: white
-Offerings: meringues, pears, green grapes, white yams (ñame)
-Eleke: white
-Sacred Place in Nature: hills, mountains or high places
-Temperament: Calm, reasonable, quiet
+- Number: 8
+- Color: white
+- Offerings: meringues, pears, green grapes, white yams (ñame)
+- Eleke: white
+- Sacred Place in Nature: hills, mountains or high places
+- Temperament: Calm, reasonable, quiet
