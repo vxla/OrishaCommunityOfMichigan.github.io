@@ -8,4 +8,4 @@ sidebar:
   nav: sidebar-faq
 ---
 
-https://trello.com/b/UJwGc6oT/atr-comparisons
+[https://trello.com/b/UJwGc6oT/atr-comparisons](https://trello.com/b/UJwGc6oT/atr-comparisons){:target="_blank"}
