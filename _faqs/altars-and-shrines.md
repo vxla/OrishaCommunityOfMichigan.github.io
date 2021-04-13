@@ -3,9 +3,12 @@ layout: article
 title: Altars and Shrines
 permalink: /faqs/altars-and-shrines.html
 key: faqs
+modify_date: 2018-03-02
+author: Stacy Corrado
 sidebar:
   nav: sidebar-faq
 ---
+March 2, 2018 By Stacy Corrado
 
 Now let me just say that occasionally religious divination will send you to make a space for a specific Orisha, that is a completely different scenario than what we are discussing here. Here, we are talking about setting up an altar, shrine or what have you because you want to/feel drawn to/had a dream/think “insert Orisha here” is amazing/etc and you go about it the same way you would any other deity you felt drawn to. STOP!
 
