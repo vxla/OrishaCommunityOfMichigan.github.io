@@ -4,7 +4,7 @@ title: Altars and Shrines
 permalink: /faqs/altars-and-shrines.html
 key: faqs
 date: 2018-03-02 12:00:00 -0800
-autthor: "Stacy Corrado"
+author: "Stacy Corrado"
 sidebar:
   nav: sidebar-faq
 ---
