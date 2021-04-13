@@ -17,6 +17,8 @@ Here is a podcast from [Omileti Olubunmi](https://orishawisdom.podbean.com/e/ses
 
 My Godson has this to say about the subject:
 <!--more-->
+
+
 Lukumi operates within a framework of rules. In fact, all ATRs/ADRs do.
 
 In Lukumi we refer to that framework as the “rule of Ocha” (Regla de Ocha) which is also another way of referring to the religion. We are taught that the Orishas, specifically Yemoja (Achaba) and Shango established the Rule of Ocha/Regla for our survival and that one of Shango’s key roles is to enforce Regla and protect the overall structure of our traditions.
