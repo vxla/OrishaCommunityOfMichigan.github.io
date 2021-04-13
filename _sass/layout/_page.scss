@@ -66,7 +66,7 @@ html,
 
 .page__actions {
   position: fixed;
-  top: map-get($spacers, 5);
+  bottom: map-get($spacers, 5);
   left: map-get($spacers, 3);
   z-index: map-get($z-indexes, actions);
   display: none;
