@@ -5,6 +5,7 @@ permalink: /faqs/altars-and-shrines.html
 key: faqs
 modify_date: 2018-03-02
 date: 2018-03-02 12:00:00 -0800
+author: "Stacy Corrado"
 sidebar:
   nav: sidebar-faq
 ---
