@@ -5,20 +5,20 @@
 ///
 
 // main colors
-$main-color-1:     #000; //black
+$main-color-1:     #563a20;
 $text-color-1:     rgba(#fff, .85);
 
-$main-color-2:     #9d4c48; //coral color for letters
-$text-color-2:     #462220; //dk coral color for letters
+$main-color-2:     #8a2827;
+$text-color-2:     rgba(#fff, .85);
 
-$main-color-3:     #A08767; //dk beige
+$main-color-3:     #b49b92;
 $text-color-3:     rgba(#fff, .85);
 
 $main-color-theme-light: rgba(#000, .9);
 $main-color-theme-dark:  rgba(#fff, .9);
 
 // page background
-$background-color: #fff; //white
+$background-color: #d2c2bc;
 
 // text colors
 $text-color-theme-light-d: rgba(#000, .95);
@@ -36,10 +36,10 @@ $text-color-l:     $text-color-theme-light-l;
 $text-background-color: rgba(#000, .05);
 
 // header and footer colors
-$header-text-color: #9d4c48; //original red coral color
-$header-background: #EDE4D5; //lt beige
+$header-text-color: $text-color-3;
+$header-background: $main-color-3;
 
-$footer-text-color: $text-color-2;
+$footer-text-color: $text-color-3;
 $footer-background: $main-color-3;
 
 // border and shadow colors
@@ -54,7 +54,7 @@ $green:           #5baa34;
 $blue:            #1c7cd4;
 $yellow:          #c9771f;
 $red:             #da3d45;
-$text-color-function: rgba(#000, .85);
+$text-color-function: rgba(#fff, .85);
 
 // logo colors
 $mail-color:       #0072c5;
