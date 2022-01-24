@@ -3,13 +3,16 @@ header:
   - title: Lineage
     url: /lineage.html
 
+  - title: Memorials
+    url: /memorials.html
+
   - title: FAQ
     url: /faq.html
 
   - title: Orishas
     url: /orishas.html
 
-sidebar-lineage:
+sidebar-memorials:
   - title:      Memorials
     children:
       - title: Afolabí
