@@ -9,7 +9,11 @@ header:
   - title: Orishas
     url: /orishas.html
 
-
+sidebar-lineage:
+  - title:      Memorials
+    children:
+      - title: Afolabí
+        url:    /memorials/afolabi.html
 
 sidebar-orishas:
   - title:      Orishas

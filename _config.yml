@@ -226,7 +226,7 @@ include:
  - _memorials
  - _pages
  - _faqs
- - _posts
+#  - _posts
  - _lineage
 
 
