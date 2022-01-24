@@ -11,17 +11,6 @@ sidebar:
 
 
 
-![Afolabi, ibae](afolabi/46775496_2100009300298472_8475438451880099840_n.jpeg)
-![Afolabi, ibae](afolabi/46837033_2100009430298459_6132916542217650176_n.jpeg)
-![Afolabi, ibae](afolabi/46881353_2100009396965129_6221779982507573248_n.jpeg)
-![Afolabi, ibae](afolabi/46089077_2267484966805296_7509274993025351680_n.jpg)
-![Afolabi, ibae](afolabi/45751588_2267485026805290_4155534910766972928_n.jpg)
-![Afolabi, ibae](afolabi/45818928_2267484956805297_8143675695965405184_n.jpg)
-![Afolabi, ibae](afolabi/45984835_2267484963471963_7868558185680863232_n.jpg)
-
-
-![Afolabi, ibae, and Iyalorisha Tita Sardinia](afolabi/46759399_2100009490298453_6245879765559934976_n.jpeg)
-> Afolabi, ibae, and Iyalorisha Tita Sardinia
 
 
 
@@ -31,10 +20,7 @@ sidebar:
 
 
 
-
-
-
-<div class="swiper">
+<div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
     <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46775496_2100009300298472_8475438451880099840_n.jpeg"/></div>
     <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46837033_2100009430298459_6132916542217650176_n.jpeg"/></div>
