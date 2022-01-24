@@ -24,6 +24,32 @@ sidebar:
 > Afolabi, ibae, and Iyalorisha Tita Sardinia
 
 
+
+
+
+
+
+
+
+
+
+
+<div class="swiper">
+  <div class="swiper__wrapper">
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46775496_2100009300298472_8475438451880099840_n.jpeg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46837033_2100009430298459_6132916542217650176_n.jpeg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46881353_2100009396965129_6221779982507573248_n.jpeg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46089077_2267484966805296_7509274993025351680_n.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/45751588_2267485026805290_4155534910766972928_n.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/45818928_2267484956805297_8143675695965405184_n.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/45984835_2267484963471963_7868558185680863232_n.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="afolabi/46759399_2100009490298453_6245879765559934976_n.jpeg"/></div>
+  </div>
+  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
+  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
+</div>
+
+
 ---
 # Memories and notes from those who knew Clay
 
@@ -51,3 +77,16 @@ Please note, that it may have typographical, historical, or other errors - and a
 [Archived link of his writings](https://web.archive.org/web/20210208213715/https://mysticcurio.tripod.com/stuffiwrote.htm)
 
 [Archived link with notes in his words of his Ile Family Tree](https://web.archive.org/web/20220124180156/https://mysticcurio.tripod.com/ileafolabi.htm)
+
+
+<script>
+  {%- include scripts/lib/swiper.js -%}
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $('.swiper-demo--0').swiper();
+    $('.swiper-demo--1').swiper();
+    $('.swiper-demo--2').swiper();
+    $('.swiper-demo--3').swiper();
+    $('.swiper-demo--4').swiper({ animation: false });
+  });
+</script>
