@@ -1,24 +1,16 @@
 ---
 layout: article
-title: Afolabí
+title: Clay Keck, Afolabí
 permalink: /memorials/afolabi.html
 key: memorials
 sidebar:
   nav: sidebar-memorials
 ---
 
-# Clay Keck, Afolabí
 
 
 
-
-
-
-
-
-
-
-
+---
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
@@ -37,7 +29,7 @@ sidebar:
 
 
 ---
-# Memories and notes from those who knew Clay
+## Memories and notes from those who knew Clay
 
 Pedro Bonetti:
 > My nephew, Clay had charisma and PRESENCE. He filled a room. When he was "on" you could see the enlightenment. and he had a wicked sense of humor at least with me in the olden days of communicating via phone and AOL.
