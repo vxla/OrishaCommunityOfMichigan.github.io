@@ -48,9 +48,7 @@ David N. Smith:
 
 Clay also maintained a website, where he was curating information regarding the religion.
 
-As a note, we offer these links as a matter of historical, archival knowledge from his perspective and experiences.  The links provided here are "frozen" in time, as a way to view his website in an unfiltered way.
-
-Please note, that it may have typographical, historical, or other errors - and also note that it may be missing important pieces of data.  Again, this is for archival purposes only.
+Let it be noted that we offer these links as a matter of historical, archival knowledge from his perspective and experiences.  The links provided here are "frozen" in time, as a way to view his website in an unfiltered way. The content within this website may have typographical, historical, or other errors - and also note that it may be missing important pieces of data.  Again, this is for archival purposes only.
 
 [Archived link of his writings](https://web.archive.org/web/20210208213715/https://mysticcurio.tripod.com/stuffiwrote.htm)
 
