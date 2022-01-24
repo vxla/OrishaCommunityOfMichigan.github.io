@@ -44,7 +44,7 @@ David N. Smith:
 
 ---
 
-### Archived Website Links
+## Archived Website Links
 
 Clay also maintained a website, where he was curating information regarding the religion.
 
