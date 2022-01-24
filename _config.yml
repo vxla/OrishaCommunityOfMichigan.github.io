@@ -219,9 +219,11 @@ collections:
   - orishas
   - faqs
   - lineage
+  - memorials
 
 include:
  - _orishas
+ - _memorials
  - _pages
  - _faqs
  - _posts
