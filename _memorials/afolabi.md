@@ -9,46 +9,37 @@ sidebar:
 
 # Clay Keck, Afolabí
 
-
-
-
-
-
-
-
-
-
-
-
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/46775496_2100009300298472_8475438451880099840_n.jpeg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/46837033_2100009430298459_6132916542217650176_n.jpeg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/46881353_2100009396965129_6221779982507573248_n.jpeg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/46089077_2267484966805296_7509274993025351680_n.jpg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/45751588_2267485026805290_4155534910766972928_n.jpg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/45818928_2267484956805297_8143675695965405184_n.jpg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/45984835_2267484963471963_7868558185680863232_n.jpg"/></center></div>
-    <div class="swiper__slide"><center><img  class="image image--md lightbox-ignore" src="afolabi/46759399_2100009490298453_6245879765559934976_n.jpeg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/46775496_2100009300298472_8475438451880099840_n.jpeg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/46837033_2100009430298459_6132916542217650176_n.jpeg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/46881353_2100009396965129_6221779982507573248_n.jpeg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/46089077_2267484966805296_7509274993025351680_n.jpg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/45751588_2267485026805290_4155534910766972928_n.jpg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/45818928_2267484956805297_8143675695965405184_n.jpg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/45984835_2267484963471963_7868558185680863232_n.jpg"/></center></div>
+    <div class="swiper__slide card"><center><img  class="image image--md card__image" src="afolabi/46759399_2100009490298453_6245879765559934976_n.jpeg"/>
+    <div class="card__content">
+    <div class="card__header">
+      <p>Afolabi, ibae, and Iyalorisha Tita Sardinia</p>
+    </div>
+    </center></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
 
-
 ---
+
 # Memories and notes from those who knew Clay
 
 Pedro Bonetti:
+
 > My nephew, Clay had charisma and PRESENCE. He filled a room. When he was "on" you could see the enlightenment. and he had a wicked sense of humor at least with me in the olden days of communicating via phone and AOL.
 
-
-
 David N. Smith:
+
 > Clay was always an interesting character. The first that I met him was at a public Samhein event in 1993. In high drag. The story goes that he wore some drag at a previous event and someone made the mistake of trying to shame him on it. Whoops!!! He never attended another pagan event without being in full on drag. That is who Clay was. He did things his own damn way and to hell with anyone in his way. He was the first one to throw shells for me, the first teacher through classes he did at Main Street Chiro, and he was the one to mark my head, back when we did that a little too freely. I am grateful to his part in starting my long journey to where I am today and grateful that he brought the Orisha to our community.
-
-
-
 
 ---
 
@@ -56,14 +47,13 @@ David N. Smith:
 
 Clay also maintained a website, where he was curating information regarding the religion.
 
-As a note, we offer these links as a matter of historical, archival knowledge from his perspective and experiences.  The links provided here are "frozen" in time, as a way to view his website in an unfiltered way.
+As a note, we offer these links as a matter of historical, archival knowledge from his perspective and experiences. The links provided here are "frozen" in time, as a way to view his website in an unfiltered way.
 
-Please note, that it may have typographical, historical, or other errors - and also note that it may be missing important pieces of data.  Again, this is for archival purposes only.
+Please note, that it may have typographical, historical, or other errors - and also note that it may be missing important pieces of data. Again, this is for archival purposes only.
 
 [Archived link of his writings](https://web.archive.org/web/20210208213715/https://mysticcurio.tripod.com/stuffiwrote.htm)
 
 [Archived link with notes in his words of his Ile Family Tree](https://web.archive.org/web/20220124180156/https://mysticcurio.tripod.com/ileafolabi.htm)
-
 
 <script>
   {%- include scripts/lib/swiper.js -%}
