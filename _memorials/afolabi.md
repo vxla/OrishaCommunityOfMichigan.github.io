@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-**Afolabi, Oni Yemoja ati Shango**
+**Afolabí, Oni Yemoja ati Shango**
 
 _(also: Shloma Menachem Mendel Rosenberg)_
 
@@ -41,6 +41,13 @@ Ordained November 9th, 1989 in Kendal, Florida by **Sandra Leon, Omidára** [_On
 
 ---
 ## Memories and notes from those who knew Clay
+
+Willie Ramos:
+> Afolabí’s passing is a great loss to many, and especially to the Orisha communities Online, as Afolabí was one of the pioneers of the many Orisha discussion board. He was a path maker in many ways. Afolabí was also responsible for the introduction of Lukumi religion to his community in Mt. Clemens, Michigan, where he ordained over 20 people to the religion. This community continues to grow and prosper to this very day. This was a man with great potential and even greater charisma. I had high hopes of making him the first American oriaté, but destiny had other plans.
+
+[comment found here](http://eleda.org/blog/2009/11/08/passing-of-clay-keck-afolabi/)
+[archive link](https://web.archive.org/web/20220125031004/http://eleda.org/blog/2009/11/08/passing-of-clay-keck-afolabi/)
+
 
 Pedro Bonetti:
 > My nephew, Clay had charisma and PRESENCE. He filled a room. When he was "on" you could see the enlightenment. and he had a wicked sense of humor at least with me in the olden days of communicating via phone and AOL.
