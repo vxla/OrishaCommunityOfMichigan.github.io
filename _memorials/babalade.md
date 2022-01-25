@@ -9,7 +9,7 @@ sidebar:
 
 **Babá Ladé Olo Obatala ati Oshun Ibu Kole**
 
-Espiritista, Pinaldero (Knife ), Lazareno (Initiate of Asojano)
+Espiritista, Pinaldero (_Knife_), Lazareno (_Initiate of Asojano_)
 
 November 15th, 1950 - December 8th 2012
 
