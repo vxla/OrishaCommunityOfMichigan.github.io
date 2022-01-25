@@ -18,7 +18,7 @@ August 15th, 1968 - November 8th, 2009
 Ordained November 9th, 1989 in Kendal, Florida by **Sandra Leon, Omidára** [_Oni Yemojá Ogúnte/Aganjú_] with **Ojigbóna Amparo (Ampe) Cueto, Obaletí**, [_Olo Obatalá Ajáguna ati Nanúme_]
 
 
-[information source](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318385218757324)
+([information source](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318385218757324))
 
 
 ---

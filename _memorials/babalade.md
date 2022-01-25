@@ -15,7 +15,7 @@ November 15th, 1950 - December 8th 2012
 
 Ordained March 5th, 19??) in Kendal, Florida by **Sandra Leon, Omidára**, [_Oni Yemoja ati Aganju_] and **Ojigbóna Rita Guerra, Okantomi** [_Olo Oshun Ibu Kole_]
 
-[information source](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318451388750707)
+([information source](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318451388750707))
 
 ---
 
