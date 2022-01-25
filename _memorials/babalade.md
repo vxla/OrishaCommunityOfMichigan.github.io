@@ -31,11 +31,10 @@ Ordained March 5th, 19??) in Kendal, Florida by **Sandra Leon, Omidára**, [_Oni
 <div class="swiper__slide"><center><img class="image image--md" src="babalade/46759393_2100278066938262_8374105025017806848_n.jpg"/><p>Jackye at a Garden Party for Oshun hosted by Moboshade of Ile Osikan in Detroit, MI. The wind was making this young man’s performance difficult so Jackye stepped in to help.</p></center></div>
 
 <div class="swiper__slide"><center><img class="image image--md" src="babalade/46908915_2100284653604270_3919923304239988736_n.jpg"/><p>Ibeyi Party at Omi Lana's 2008 - Jackye (Babalade, Ibae) & Linda (Ewe Ide).</p></center></div>
-
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-
+</div>
 ---
 
 ## Memories and notes from those who knew Jackye
