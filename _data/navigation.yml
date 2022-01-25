@@ -17,6 +17,9 @@ sidebar-memorials:
     children:
       - title: Afolabí
         url:    /memorials/afolabi.html
+    children:
+      - title: Babalade
+        url:    /memorials/babalade.html
 
 sidebar-orishas:
   - title:      Orishas

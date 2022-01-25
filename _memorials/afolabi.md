@@ -8,6 +8,17 @@ sidebar:
 ---
 
 
+**Afolabi, Oni Yemoja ati Shango**
+
+_(also: Shloma Menachem Mendel Rosenberg)_
+
+August 15th, 1968 - November 8th, 2009
+
+
+Ordained November 9th, 1989 in Kendal, Florida by **Sandra Leon, Omidára** [_Oni Yemojá Ogúnte/Aganjú_] with **Ojigbóna Amparo (Ampe) Cueto, Obaletí**, [_Olo Obatalá Ajáguna ati Nanúme_]
+
+
+[information from](https://www.facebook.com/groups/orishacommunityofmichigan/permalink/318385218757324)
 
 
 ---
@@ -53,6 +64,9 @@ Let it be noted that we offer these links as a matter of historical, archival kn
 [Archived link of his writings](https://web.archive.org/web/20210208213715/https://mysticcurio.tripod.com/stuffiwrote.htm)
 
 [Archived link with notes in his words of his Ile Family Tree](https://web.archive.org/web/20220124180156/https://mysticcurio.tripod.com/ileafolabi.htm)
+
+
+---
 
 
 <script>
