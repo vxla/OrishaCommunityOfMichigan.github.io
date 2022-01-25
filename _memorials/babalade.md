@@ -1,13 +1,13 @@
 ---
 layout: article
-title: Jackye Anderson, Babalade
+title: Jackye Anderson, Babá Ladé
 permalink: /memorials/babalade.html
 key: memorials
 sidebar:
   nav: sidebar-memorials
 ---
 
-**Babalade Olo Obatala ati Oshun Ibu Kole**
+**Babá Ladé Olo Obatala ati Oshun Ibu Kole**
 
 Espiritista, Pinaldero (Knife ), Lazareno (Initiate of Asojano)
 
@@ -38,6 +38,16 @@ Ordained March 5th, 19??) in Kendal, Florida by **Sandra Leon, Omidára**, [_Oni
 
 ---
 
+## Memories and notes from those who knew Jackye
+
+
+
+[View comments left in her obituary guestbook](https://www.vickfuneralhome.com/obituary/1867063)
+
+[if that link no longer works, please try viewing the archived version here](https://web.archive.org/web/20220125011408/https://www.vickfuneralhome.com/obituary/1867063)
+
+
+---
 
 
 <script>
